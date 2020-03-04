@@ -47,3 +47,8 @@ is just a prototype there might be several bugs.
    Running ```make test``` is the easiest way to compile a program, translate
    the DFG into object files, compile the runtime instrumentation lib and link
    the program against the runtime lib.
+
+
+## Author
+
+Irene Díez-Franco
